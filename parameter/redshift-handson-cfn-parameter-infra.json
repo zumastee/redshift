@@ -1,1 +1,17 @@
 
+{
+    "Parameters": [
+        {
+            "ParameterKey": "VpcCIDR",
+            "ParameterValue": "X.X.X.X/XX"
+        },
+        {
+            "ParameterKey": "PrivateSubnetCIDR01",
+            "ParameterValue": "X.X.X.X/XX"
+        },
+        {
+            "ParameterKey": "DBSubnetCIDR01",
+            "ParameterValue": "X.X.X.X/XX"
+        }
+    ]
+}
